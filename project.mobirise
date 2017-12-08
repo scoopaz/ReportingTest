@@ -1,0 +1,114 @@
+{
+  "settings": {
+    "name": "Site-12-07_1129",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": []
+    },
+    "versionFirst": "4.5.2",
+    "uniqCompNum": 9,
+    "versionPublish": "4.5.2"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1"
+        },
+        {
+          "_params": {
+            "anchor": "deltapicodeedit-7",
+            "codeEdit": false,
+            "tinyEdit": false
+          },
+          "_customHTML": "\n\n\n\n&nbsp;\n&nbsp; <meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\">\n&nbsp; <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n&nbsp; <title>Login</title>\n\n&nbsp; <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n&nbsp; <link rel=\"stylesheet\" href=\"/styles/default.css\" type=\"text/css\">\n&nbsp; <link rel=\"stylesheet\" href=\"/include/bootstrap/css/bootstrap.min.css\" type=\"text/css\">\n&nbsp; <link rel=\"stylesheet\" href=\"/styles/bootstrap/darkly/css/bootstrap-theme.min.css\" type=\"text/css\">\n&nbsp; <link rel=\"stylesheet\" href=\"/styles/bs.css\" type=\"text/css\">\n&nbsp; <link rel=\"stylesheet\" href=\"/styles/bootstrap/darkly/css/tweaks.css\" type=\"text/css\">\n&nbsp; <link rel=\"stylesheet\" href=\"/styles/custom/custom.css\" type=\"text/css\">\n&nbsp; <link rel=\"stylesheet\" href=\"/include/jquery-ui/smoothness/jquery-ui.min.css\" type=\"text/css\">\n&nbsp; <link rel=\"stylesheet\" href=\"/include/bootstrap/css/jquery.mCustomScrollbar.css\" type=\"text/css\">\n&nbsp;\n\n&nbsp;\n<script type=\"text/javascript\">window.runnerWebRootPath=\"%2f\"</script><script type=\"text/javascript\" src=\"/include/loadfirst.js\"></script><script type=\"text/javascript\" src=\"/include/lang/English.js\"></script><form method=\"post\" action=\"/login\" id=\"form1\" name=\"form1\">\n&nbsp; &nbsp; &nbsp; &nbsp; <input type=\"hidden\" name=\"btnSubmit\" value=\"Login\">\n<title>ADP Reporting Portal</title><title>ADP Reporting \nPortal</title>\n<p align=\"center\"><title>ADP Reporting Portal</title>\t<title>ADP Reporting \nPortal</title> <img alt=\"Arizona Democratic Party\" src=\"images/ADPCircle_2.png\" border=\"1\"></p>\t\t<style>    </style>\n&nbsp; <div class=\"bs-top\">\n&nbsp; &nbsp; &nbsp; &nbsp; \n\n<div data-pageid=\"1\" data-container=\"page\" class=\"container    \"> \n\n\n\n\n\n\n\n\n\n\n\n\n<div data-pageid=\"1\" data-container=\"page_1\" class=\" bs-standalone-page  col-md-6 col-md-offset-3\"> \n\n\n\n\n<div data-pageid=\"1\" data-container=\"panel\" class=\" bs-pagepanel panel panel-primary   \"> \n\n\n\n\n<div data-pageid=\"1\" data-container=\"header\" class=\" panel-heading   \"> \n\n<h3 class=\"panel-title\" data-pageid=\"1\" data-brick=\"loginheader\">\n\n&nbsp;Login\n</h3>\n\n\n\n</div>\n\n\n\n\n\n\n\n\n<div data-pageid=\"1\" data-container=\"body\" class=\" panel-body   \"> \n\n\n\n\n\n\n\n\n\n\n\n\n<div data-pageid=\"1\" data-container=\"fields\" class=\"   col-md-12 \"> \n\n\n<div data-pageid=\"1\" data-brick=\"loginfields\" class=\"form-horizontal\" role=\"form\">\n&nbsp;<div class=\"form-group\">\n&nbsp; <label class=\"col-md-4 control-label\" for=\"username\">\nUsername:\t\t</label>\n&nbsp; <div class=\"col-md-6\">\n&nbsp; &nbsp;<input type=\"text\" class=\"form-control\" name=\"username\" id=\"username\" value=\"ADPExec\">\n&nbsp; </div>\n&nbsp;</div>\n&nbsp;<div class=\"form-group\">\n&nbsp; <label class=\"col-md-4 control-label\" for=\"password\">\nPassword:\t\t</label>\n&nbsp; <div class=\"col-md-6\">\n&nbsp; &nbsp;<input type=\"password\" class=\"form-control\" name=\"password\" id=\"password\" value=\"Dem0Crat2018\">\n&nbsp; </div>\n&nbsp;</div>\n&nbsp; <div class=\"form-group\">\n&nbsp; <div class=\"col-md-6 col-md-offset-4\">\n&nbsp; &nbsp;<div class=\"checkbox\">\n&nbsp; &nbsp; <label>\n&nbsp; &nbsp; &nbsp;<input type=\"checkbox\" id=\"remember_password\" name=\"remember_password\" value=\"1\" checked=\"\"> <span>Remember me</span>\t\t\t\t</label>\n&nbsp; &nbsp;</div>\n&nbsp; </div>\n&nbsp;</div>\n&nbsp;\n\n</div>\n\n\n\n\n\n\n</div>\n\n\n\n\n\n\n\n\n<div data-pageid=\"1\" data-container=\"header_2\" class=\"   col-md-8 col-md-offset-4\"> \n\n<span data-pageid=\"1\" data-brick=\"loginbuttons\">\n\n<button class=\"btn btn-primary\" id=\"submitLogin1\">Sign in</button>\n\n\n</span>\n\n\n\n</div>\n\n\n\n\n\n\n\n</div>\n\n\n\n\n\n\n</div>\n\n\n\n\n\n\n\n\n<div data-pageid=\"1\" data-container=\"register\" class=\"  text-center col-md-12 \"> \n\n\n<span data-pageid=\"1\" data-brick=\"bsloginregister\">\n</span>\n\n\n\n\n\n</div>\n\n\n\n\n\n\n</div>\n\n\n\n\n\n\n</div>\n\n\n&nbsp; </div>\n&nbsp; <div class=\"bs-middle \">\n&nbsp; &nbsp;<div class=\"bs-topmiddle\">\n&nbsp; &nbsp; \n&nbsp; &nbsp;</div>\n&nbsp; &nbsp;<div class=\"bs-left\">\n&nbsp; &nbsp; \n&nbsp; &nbsp;</div>\n&nbsp; &nbsp;<div class=\"bs-center\">\n&nbsp; &nbsp; \n&nbsp; &nbsp;</div>\n&nbsp; &nbsp;<div class=\"bs-right\">\n&nbsp; &nbsp; \n&nbsp; &nbsp;</div>\n&nbsp; </div>\n&nbsp; <div class=\"bs-bottom\">\n&nbsp; &nbsp; &nbsp; &nbsp; \n&nbsp; </div>\n</form><script>window.controlsMap = {\".global\":{\"login\":{\"1\":{\"oldLayout\":false,\"layoutVersion\":3,\"layoutName\":\"BoldOffice\",\"video\":[],\"toolTips\":[],\"searchPanelActivated\":false,\"controls\":[],\"search\":{\"searchBlocks\":[],\"allSearchFields\":[],\"allSearchFieldsLabels\":[],\"panelSearchFields\":[],\"googleLikeFields\":[],\"inflexSearchPanel\":true,\"requiredSearchFields\":[],\"isSearchRequired\":false,\"searchTableName\":\".global\",\"shortSearchTableName\":\"\",\"submitPageType\":\"login\"},\"gMaps\":{\"isUseMainMaps\":false,\"isUseFieldsMaps\":false,\"isUseGoogleMap\":false,\"APIcode\":\"\",\"mainMapIds\":[],\"fieldMapsIds\":[],\"mapsData\":[]}}}}};window.viewControlsMap = {\".global\":{\"login\":{\"1\":[]}}};Runner.applyPagesData( {\"1\":{\"proxy\":[]}} );window.settings = {\"tableSettings\":{\".global\":{\"proxy\":{\"proxy\":\"\"},\"fieldSettings\":[],\"strCaption\":null,\"pageMode\":0,\"ajaxSuggest\":false}},\"global\":{\"shortTNames\":{\".global\":\"\"},\"webRootPath\":\"/\",\"ext\":\"aspx\",\"charSet\":\"utf-8\",\"curretLang\":\"English\",\"debugMode\":false,\"googleMapsApiCode\":\"\",\"popupPagesLayoutNames\":{\"login\":\"bootstrap4\"},\"isMobile\":false,\"mobileDeteced\":false,\"s508\":true,\"mapProvider\":0,\"locale\":{\"dateFormat\":\"0\",\"langName\":\"en\",\"ctryName\":\"US\",\"startWeekDay\":\"6\",\"dateDelimiter\":\"/\",\"is24hoursFormat\":\"0\",\"leadingZero\":\"0\",\"timeDelimiter\":\":\",\"timePmLetter\":\"PM\",\"timeAmLetter\":\"AM\"},\"showDetailedError\":true,\"customErrorMessage\":\"\",\"twoFactorAuth\":false,\"loginFormType\":0,\"idStartFrom\":2}};</script><script type=\"text/javascript\" src=\"/include/runnerJS/RunnerAll.js\"></script><script> Runner.util.ScriptLoader.load();</script>\t\n\n",
+          "_customCSS": ".tinymce{background-color:white;text-align:center;}",
+          "alias": "deltapicodeedit",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapicodeedit",
+          "_anchor": "deltapicodeedit-7"
+        }
+      ]
+    },
+    "login.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "login",
+        "order": 1
+      },
+      "components": []
+    }
+  }
+}

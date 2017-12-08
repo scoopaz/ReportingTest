@@ -1,0 +1,14 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+Project("{{64FFBE60-C56A-4f53-85EF-829D7A32391C}}") = "Reporting", "Reporting.csproj", "{64FFBE60-C56A-4F53-85EF-829D7A32391C}"
+EndProject
+Project("{{64FFBE60-C56A-4f53-85EF-829D7A32391D}}") = "ReportingEventsCS", "ReportingEventsCS.csproj", "{64FFBE60-C56A-4F53-85EF-829D7A32391C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{64FFBE60-C56A-4F53-85EF-829D7A32391C} = {64FFBE60-C56A-4F53-85EF-829D7A32391C}
+	EndProjectSection
+EndProject
+Project("{{64FFBE60-C56A-4f53-85EF-829D7A32391E}}") = "ReportingEventsVB", "ReportingEventsVB.vbproj", "{64FFBE60-C56A-4F53-85EF-829D7A32391C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{64FFBE60-C56A-4F53-85EF-829D7A32391C} = {64FFBE60-C56A-4F53-85EF-829D7A32391C}
+	EndProjectSection
+EndProject
